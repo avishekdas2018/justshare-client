@@ -288,4 +288,12 @@ p {
         flex-direction: column;
         width: 300px;
     }
+
+    
+.toast {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50%, 160px);
+    }
 }
