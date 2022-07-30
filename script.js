@@ -104,7 +104,7 @@ const updateProgress = (e) => {
 }
 
 const onUploadSuccess = ({file: url}) => {
-    console.log(url);
+    //console.log(url);
     emailForm[2].removeAttribute("disabled");
     fileinput.value = "";
     progressContainer.style.display = "none";
