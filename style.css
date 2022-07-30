@@ -285,6 +285,12 @@ p {
         display: none;
     }
 
+    .email-container .field {
+        flex-direction: column;
+        width: 300px;
+    }
+
+
     .logo {
         position: absolute;
         top: 5px;
