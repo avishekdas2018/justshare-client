@@ -256,7 +256,7 @@ p {
     position: absolute;
     bottom: 10px;
     left: 50%;
-    transform: translate(-50%, 60px);
+    transform: translate(-50%, 160px);
     padding: 10px 15px;
     font-size: 18px;
     background: #28B463;
