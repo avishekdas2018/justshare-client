@@ -197,6 +197,7 @@ p {
 .email-container {
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .email-container form {
@@ -283,12 +284,6 @@ p {
     .bg-vector {
         display: none;
     }
-
-    .email-container .field {
-        flex-direction: column;
-        width: 295px;
-    }
-
 
     .logo {
         position: absolute;
