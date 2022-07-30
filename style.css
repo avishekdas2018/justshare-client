@@ -289,7 +289,14 @@ p {
         width: 300px;
     }
 
-    
+
+    .logo {
+        position: absolute;
+        top: 5px;
+        left: 5px;
+        width: 116px;
+    }
+
 .toast {
     position: absolute;
     bottom: 10px;
