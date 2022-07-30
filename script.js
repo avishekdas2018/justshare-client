@@ -149,6 +149,6 @@ const showToast = (msg) => {
 
     clearTimeout(toastTimer);
     toastTimer = setTimeout(() => {
-    toast.style.transform = "translate(-50%, 160px)";
+    toast.style.transform = "translate(-50%, 145px)";
     }, 2000);
 };
