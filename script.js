@@ -13,7 +13,7 @@ const toast = document.querySelector(".toast");
 
 const emailForm = document.querySelector("#emailForm");
 
-const host = "https://appjustshare.herokuapp.com/";
+const host = "https://appjustshare.onrender.com/";
 const uploadURL = `${host}api/files`;
 const emailURL = `${host}api/files/send`;
 const maxAllowedSize = 200 * 1024 * 1024;
